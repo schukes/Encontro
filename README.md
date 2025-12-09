@@ -29,13 +29,3 @@ Este projeto é totalmente *front-end* e não requer um servidor web para funcio
     ```
 3.  **Abra o Arquivo:**
     Simplesmente clique duas vezes no arquivo `index.html` ou arraste-o para o seu navegador web favorito (Chrome, Firefox, Edge, etc.).
-
-## 📝 Documentação Detalhada
-
-A documentação técnica detalhada sobre a estrutura do HTML, CSS e a lógica do JavaScript pode ser encontrada no diretório:
-
-* [`/doc/documentacao.md`](./doc/documentacao.md)
-
-## 📌 Histórico
-
-Este código foi criado em [Insira a data do primeiro encontro] para um momento especial, tornando-se uma lembrança duradoura e divertida do início de um relacionamento.
